@@ -1,10 +1,10 @@
-# ¡Bienvenidx! :wave: Soy Valeria Espinoza 🤑
+# ¡Bienvenidx! :wave: Soy *Valeria Espinoza*
 
 ## Te has topado con el perfil y repositorio bendito 🙏  
 
-'''ruby
+```ruby
 while(!(succeed == try()));
-'''  
+```
 
 ### :computer: Computer Science at UTEC
 
@@ -21,6 +21,7 @@ while(!(succeed == try()));
 ## My inspo: :heart:
 
 ![](https://www.cinemascomics.com/wp-content/uploads/2015/08/Arrow-Felicity-Smoak-cambios.jpg)
+> Felicity Smoak (Arrow)
 
 ## Obsesionada con
 - 💛 Trafalgar Law, mi usuario lo dice todo (lean One Piece)
