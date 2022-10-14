@@ -1,6 +1,6 @@
-# ¡Bienvenidx! :wave: Soy *Valeria Espinoza*
+# ¡Bienvenidx! :wave: Soy **Valeria Espinoza**
 
-## Te has topado con el perfil y repositorio bendito 🙏  
+### Te has topado con el perfil y repositorio bendito 🙏  
 
 ```ruby
 while(!(succeed == try()));
