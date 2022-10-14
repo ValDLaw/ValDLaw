@@ -1,16 +1,29 @@
-### Hi there 👋
+# ¡Bienvenidx! :wave: Soy Valeria Espinoza 🤑
 
-<!--
-**ValDLaw/ValDLaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Te has topado con el perfil y repositorio bendito 🙏  
 
-Here are some ideas to get you started:
+'''ruby
+while(!(succeed == try()));
+'''  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: Computer Science at UTEC
+
+![](https://data.whicdn.com/images/207061787/original.gif)
+
+## About me 💀
+
+:date: 2004/23/04
+
+🇵🇪 Lima, Peru.
+
+:keyboard: Programming languages: `C++`, `Python`, `JavaScript`, and more (soon). 
+
+## My inspo: :heart:
+
+![](https://www.cinemascomics.com/wp-content/uploads/2015/08/Arrow-Felicity-Smoak-cambios.jpg)
+
+## Obsesionada con
+- 💛 Trafalgar Law, mi usuario lo dice todo (lean One Piece)
+- 🖤💗 BLACKPINK in your area
+- 🌱 Vegan life 
+- 💻 CS
