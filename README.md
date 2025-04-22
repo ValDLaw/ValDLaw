@@ -26,5 +26,4 @@ while(!(succeed == try()));
 ## YO:
 - 💛 Trafalgar Law, mi usuario lo dice todo (lean One Piece)
 - 🖤💗 BLACKPINK in your area
-- 🌱 Vegan life 
 - 💻 CS
