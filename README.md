@@ -1,29 +1,8 @@
-# ¡Bienvenidx! :wave: Soy **Valeria Espinoza**
+# Hi there 👋
 
-### 💀  
+I'm **Valeria Espinoza**, a Computer Engineering student at **Columbia University**.
 
-```ruby
-while(!(succeed == try()));
-```
+- Hands-on experience in **machine learning**, **data analysis** and **computer vision**, and I enjoy working on projects that combine **AI** and **software engineering**.  
+- 🌐 Check out my portfolio: [https://valdlaw.github.io](https://valdlaw.github.io)
 
-### :computer: Computer Science at UTEC
-
-![](https://data.whicdn.com/images/207061787/original.gif)
-
-## About me
-
-:date: 2004/23/04
-
-🇵🇪 Lima, Peru.
-
-:keyboard: Database. 
-
-## QUEEN :heart:
-
-![](https://www.cinemascomics.com/wp-content/uploads/2015/08/Arrow-Felicity-Smoak-cambios.jpg)
-> Felicity Smoak (Arrow)
-
-## YO:
-- 💛 Trafalgar Law, mi usuario lo dice todo (lean One Piece)
-- 🖤💗 BLACKPINK in your area
-- 💻 CS
+Thanks for stopping by!
